@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "id": 0,
+            "name": "Jelo",
+            "email": "tugano"
+        },
+        {
+            "id": 1,
+            "name": "Alrick",
+            "email": "Data"
+        },
+        {
+            "id": 3,
+            "name": "Rick",
+            "email": "Lol"
+        },
+        {
+            "id": 4,
+            "name": "Korazaon",
+            "email": "Tagalo"
+        }
+    ]
+}
