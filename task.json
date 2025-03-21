@@ -1,5 +1,4 @@
 [
-   "tasks": [
     {
         "id": 0,
         "title": "Task1",
@@ -30,5 +29,4 @@
         "description": "Description4",
         "dueDate": "2024-04-25"
     }
-   ]
 ]
